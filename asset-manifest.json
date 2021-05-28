@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-r1brb/static/css/main.17e385bb.chunk.css",
+    "main.js": "https://.github.io/csb-r1brb/static/js/main.c588d724.chunk.js",
+    "main.js.map": "https://.github.io/csb-r1brb/static/js/main.c588d724.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-r1brb/static/js/runtime-main.0f713afd.js",
+    "runtime-main.js.map": "https://.github.io/csb-r1brb/static/js/runtime-main.0f713afd.js.map",
+    "static/js/2.37be8366.chunk.js": "https://.github.io/csb-r1brb/static/js/2.37be8366.chunk.js",
+    "static/js/2.37be8366.chunk.js.map": "https://.github.io/csb-r1brb/static/js/2.37be8366.chunk.js.map",
+    "index.html": "https://.github.io/csb-r1brb/index.html",
+    "static/css/main.17e385bb.chunk.css.map": "https://.github.io/csb-r1brb/static/css/main.17e385bb.chunk.css.map",
+    "static/js/2.37be8366.chunk.js.LICENSE.txt": "https://.github.io/csb-r1brb/static/js/2.37be8366.chunk.js.LICENSE.txt",
+    "static/media/Adria-logo.bd5e5e0d.png": "https://.github.io/csb-r1brb/static/media/Adria-logo.bd5e5e0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f713afd.js",
+    "static/js/2.37be8366.chunk.js",
+    "static/css/main.17e385bb.chunk.css",
+    "static/js/main.c588d724.chunk.js"
+  ]
+}
